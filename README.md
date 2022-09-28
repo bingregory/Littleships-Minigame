@@ -1,5 +1,5 @@
 # Littleships-Minigame
-"Modest naval warfare on diminuitive bodies of water."
+"Small boats fighting modest battles on diminutive bodies of water."
 
 ## Overview: 
 A single-player game written in python3. The player has 15 shots to sink 5 littleships in a 5x5 grid. The player shoots one shot at a time until the boats are sunk or he runs out of shots.
